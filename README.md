@@ -1,8 +1,8 @@
 Hi there 👋, I'm Jefter
 
-I study Computational Physics at the University of São Paulo and, at this
-moment, i'm interested in fields like quantum computing, complex networks, computer graphics. 
-Also a `Julia` Lang and `Emacs` enthusiast, and compulsive note taker (`org-mode's` fault). `FOSS` advocate.
+I study Computational Physics at the University of São Paulo. I like algorithms and 
+i'm interested in complex networks and quantum computing.
+A `Julia` Lang and `Emacs` enthusiast. `FOSS` advocate.
 
 <h4 align="left">Tools and Languages </h4>
     <p align="left">
