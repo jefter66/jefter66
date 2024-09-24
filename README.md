@@ -1,8 +1,12 @@
 # Hi there, I'm Jefter 👋
 
-I'm an undergraduate student of **Computational Physics** at **IFSC/USP**. 
+Currently an undergraduate student of **Computational Physics** at **IFSC/USP**. 
 
-My research focuses on investigating work production and entanglement manipulation in the superfluid-insulator transition with finite-time dynamics.
+My research focuses on investigating work extraction and entanglement manipulation in the fermionic superfluid-insulator transition with finite-time dynamics.
+
+
+I'm interested in many-body quantum physics and its connections to quantum information and thermodynamics. I use numerical methods and computational techniques to explore these intersections and address complex problems in these fields
+
 
 ---
 
