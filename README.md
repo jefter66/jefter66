@@ -1,6 +1,8 @@
 # Hi there, I'm Jefter 👋
 
-I'm an undergraduate student of **Computational Physics** at **IFSC/USP**. My research focuses on investigating work production and entanglement manipulation in the superfluid-insulator transition with finite-time dynamics.
+I'm an undergraduate student of **Computational Physics** at **IFSC/USP**. 
+
+My research focuses on investigating work production and entanglement manipulation in the superfluid-insulator transition with finite-time dynamics.
 
 ---
 
@@ -9,8 +11,8 @@ I'm an undergraduate student of **Computational Physics** at **IFSC/USP**. My re
 - **Tools:** Linux, LaTeX, Git, Vim, Emacs
 <!-- 
 [comment] - **Numerical Methods:** Exact Diagonalization, Monte Carlo Simulations, Lanczos Algorithm
--->
 - **Computer Science:** Algorithms, Graph Theory, Complexity Analysis
+-->
 
 ---
 
