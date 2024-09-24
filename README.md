@@ -7,7 +7,9 @@ I'm an undergraduate student of **Computational Physics** at **IFSC/USP**. My re
 ## 📚 Skills
 - **Programming Languages:** Python, C/C++, Fortran, Julia
 - **Tools:** Linux, LaTeX, Git, Vim, Emacs
+<!-- 
 [comment] - **Numerical Methods:** Exact Diagonalization, Monte Carlo Simulations, Lanczos Algorithm
+-->
 - **Computer Science:** Algorithms, Graph Theory, Complexity Analysis
 
 ---
