@@ -14,16 +14,6 @@ I'm an undergraduate student of **Computational Physics** at **IFSC/USP**. My re
 
 ---
 
-## 📫 How to reach me
-
-<p align="left">
-  <a href="mailto:jeftersmares@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/email-open.png" alt="email" width="40" height="40"/></a>
-<!-- <a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a> -->
-  <a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" width="40" height="40"/></a>
-</p>
-
----
-
 ## 📚 Course Projects
 
 ### Physics and Numerical Methods
