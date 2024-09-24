@@ -1,55 +1,14 @@
 # Hi there, I'm Jefter 👋
 
-## 👨‍💻 About Me
-- 🎓 I'm an undergraduate student of **Computational Physics** at **IFSC/USP**.
-- 🔬 My research interests span **Condensed Matter Physics**, **Quantum Information**, and **Quantum Thermodynamics**.
-- 💻 I have a strong passion for computational work, employing **numerical methods** and **algorithms**.
-- 🧠 I'm fascinated by **Theoretical Computer Science**, particularly in the areas of **algorithms** and **graph theory**.
-- 📊 I'm exploring applications of **linear algebra methods** and potentially **quantum algorithms**.
-
----
-
-## ⚙️ Tools and Languages
-
-<p align="left">
-    <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" alt="emacs" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://fortran-lang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" alt="fortran" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://julialang.org/" target="_blank"><img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-dots.svg" alt="julia" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
-
----
-
-## 🔬 Research Interests
-- **Condensed Matter Physics:** Exploring the behavior of many-body systems and phase transitions.
-- **Quantum Information:** Studying quantum computation and entanglement properties in physical systems.
-- **Quantum Thermodynamics:** Investigating work production and the role of entanglement in thermodynamic processes.
-- **Numerical Methods & Algorithms:** Implementing numerical techniques for solving physical problems and exploring computational complexity.
-
----
-
-## 🚀 Current Projects
-### 📊 [Finite-Time Quenches in the 1D Hubbard Model](https://github.com/yourusername/project-repo)
-**Description:** Investigating work production and entanglement manipulation in the superfluid-insulator transition with finite-time dynamics.
-
-### 🔬 [Quantum Monte Carlo Simulations](https://github.com/yourusername/research-repo)
-**Description:** Using Monte Carlo methods to study spin systems and quantum phase transitions.
-
-### 🛠️ [Lanczos Method Implementation](https://github.com/yourusername/tool-repo)
-**Description:** Implementing the Lanczos algorithm for diagonalization of large sparse matrices in condensed matter physics applications.
+I'm an undergraduate student of **Computational Physics** at **IFSC/USP**. My research focuses on investigating **work production** and **entanglement manipulation** in the **superfluid-insulator transition** with **finite-time dynamics**.
 
 ---
 
 ## 📚 Skills
-- **Programming Languages:** Python, C, C++, Fortran, Julia, Bash
-- **Numerical Methods:** Monte Carlo methods, Exact Diagonalization, Lanczos Algorithm
-- **Quantum Computing:** Quantum Algorithms, Quantum Gates, Quantum Circuit Simulation
-- **Theoretical Computer Science:** Algorithms, Graph Theory, Complexity Analysis
+- **Programming Languages:** Python, C/C++, Fortran, Julia
+- **Tools:** Linux, LaTeX, Git, Vim, Emacs
+- **Numerical Methods:** Exact Diagonalization, Monte Carlo Simulations, Lanczos Algorithm
+- **Computer Science:** Algorithms, Graph Theory, Complexity Analysis
 
 ---
 
@@ -63,16 +22,56 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Course Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Jefter's GitHub stats"/>
-</p>
+### Physics and Numerical Methods
+- **[Intro to Computational Physics](https://github.com/jeftersantiago/intro_fiscomp)**
+  - Topics: Monte Carlo Methods, Numerical Integration, Random Walks
+
+- **[Computational Statistical Mechanics](https://github.com/jeftersantiago/mec_estat_comp)**
+  - Topics: Ising Model, Molecular Dynamics, Simulation Techniques
+
+- **Spectral Theory of Matrices**
+  - Notes and assignments on matrix diagonalization, eigenvalues, and more.
+
+### Computer Science
+- **[Introduction to Computer Science II (icc2)](https://github.com/jeftersantiago/icc2)**
+  - Topics: Sorting Algorithms, Search Algorithms, Complexity Analysis
+
+- **[Data Structures](https://github.com/jeftersantiago/estruturas_de_dados)**
+  - Topics: Linked Lists, Stacks, Queues, Trees
+
+- **[Computational Modelling in Graphs](https://github.com/jeftersantiago/graphs)**
+  - Topics: Graph Algorithms, Network Models
+
+- **[Advanced Algorithms](https://github.com/jeftersantiago/advanced-algorithms)**
+  - Topics: Dynamic Programming, Greedy Algorithms, Contest Problems
+
+### Data Science
+- **[Complex Networks](https://github.com/jeftersantiago/complex_networks)**
+  - Topics: Network Analysis, Community Detection, Graph Theory
+
+- **[Intro to Data Science](https://github.com/jeftersantiago/intro_ciencia_de_dados)**
+  - Topics: Data Visualization, Statistical Analysis, Machine Learning
+
+- **[Intro to Probability](https://github.com/jeftersantiago/itp2023)**
+  - Topics: Probability Theory, Distributions, Bayesian Inference
 
 ---
 
-## 🏆 Top Languages
+## 🌐 Random Stuff
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+I'm a big fan of open-source projects and software! Here are some repositories that you might find interesting:
+
+- **[My Emacs Configurations](https://github.com/jeftersantiago/.emacs.d)**  
+  Custom Emacs setup with configurations for various languages and tools.
+
+- **[My Fork of the ST Terminal](https://github.com/jeftersantiago/st)**  
+  Customized version of the Suckless terminal—lightweight and highly efficient.
+
+- **[My System's Dotfiles](https://github.com/jeftersantiago/dotfiles)**  
+  A collection of configuration files that track my journey from Ubuntu to Arch Linux. Great for finding inspiration on how to tweak and optimize your Linux setup!
+
+---
+
+Feel free to reach out if you share similar interests or want to collaborate on exciting projects!
