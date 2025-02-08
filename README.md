@@ -2,22 +2,20 @@
 
 Currently an undergraduate student of **Computational Physics** at **IFSC/USP**. 
 
-My research focuses on investigating work extraction and entanglement manipulation in the fermionic superfluid-insulator transition with finite-time dynamics.
-
+Interested in quantum information and condensed matter physics. Currently working on 
+an undergraduate research project exploring work statistics and thermodynamic properties 
+in quantum phase transitions.
 
 ---
 
 ## 📚 Skills
-- **Programming Languages:** Python, C/C++, Fortran, Julia
-- **Tools:** Linux, LaTeX, Git, Vim, Emacs
-<!-- 
-[comment] - **Numerical Methods:** Exact Diagonalization, Monte Carlo Simulations, Lanczos Algorithm
-- **Computer Science:** Algorithms, Graph Theory, Complexity Analysis
--->
-
+- **Programming Languages:** Python, C/C++, Julia, Fortran.
+- **Tools:** Linux, LaTeX, Git, NeoVim.
+- **Numerical Methods:** Exact Diagonalization, Monte Carlo Simulations
+- **Computer Science:** Algorithms, Graph Theory, Complexity Analysis.
 ---
 
-## 📚 Course Projects
+## 📚 Some cool course repositories
 
 ### Physics and Numerical Methods
 - **[Intro to Computational Physics](https://github.com/jeftersantiago/intro_fiscomp)**
@@ -58,13 +56,14 @@ My research focuses on investigating work extraction and entanglement manipulati
 
 I'm a big fan of open-source projects and software! Here are some repositories that you might find interesting:
 
-- **[My Emacs Configurations](https://github.com/jeftersantiago/.emacs.d)**  
-  Custom Emacs setup with configurations for various languages and tools.
+- **[My System's Dotfiles](https://github.com/jeftersantiago/dotfiles)**  
+  A collection of configuration files that tracks my journey from various Linux distros or desktop environmnent and window managers.
+  
 
 - **[My Fork of the ST Terminal](https://github.com/jeftersantiago/st)**  
   Customized version of the Suckless terminal—lightweight and highly efficient.
 
-- **[My System's Dotfiles](https://github.com/jeftersantiago/dotfiles)**  
-  A collection of configuration files that track my journey from Ubuntu to Arch Linux. Great for finding inspiration on how to tweak and optimize your Linux setup!
+- **[My Emacs Configurations](https://github.com/jeftersantiago/.emacs.d)**  
+  Custom Emacs setup with configurations for various languages and tools.
 
 ---
