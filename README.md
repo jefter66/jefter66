@@ -11,10 +11,11 @@ in quantum phase transitions.
 ## 📚 Skills
 - **Programming Languages:** Python, C/C++, Julia, Fortran.
 - **Tools:** Linux, LaTeX, Git, NeoVim.
-- **Numerical Methods:** Exact Diagonalization, Monte Carlo Simulations
 - **Computer Science:** Algorithms, Graph Theory, Complexity Analysis.
 ---
 
+
+<!--
 ## 📚 Some cool course repositories
 
 ### Physics and Numerical Methods
@@ -50,7 +51,7 @@ in quantum phase transitions.
 - **[Intro to Probability](https://github.com/jeftersantiago/itp2023)**
   - Probability Theory, Distributions, Bayesian Inference
 
----
+-->
 
 ## 🌐 Some cool repositories of mine
 
